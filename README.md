@@ -1,6 +1,7 @@
 # Customer_Purchase_Behaviour_Analysis
 
 **Overview**
+
 The Customer Purchase Behaviour Analysis project focuses on analyzing customer purchasing patterns to gain insights that can help improve customer experience and boost sales. By leveraging Python's powerful data analysis libraries, we uncover actionable insights to optimize inventory, target potential customers, and streamline business operations.
 
 **Key Features**
