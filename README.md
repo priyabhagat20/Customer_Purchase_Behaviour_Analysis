@@ -18,7 +18,6 @@ Suggested tailored strategies for marketing campaigns and promotions to attract 
 4. Sales Optimization
 Analyzed sales data to identify the most popular product categories and individual products.
 Provided insights into seasonal and regional demand patterns.
-Recommendations for inventory management were made to ensure high-demand products are always available, minimizing stockouts and overstocking.
 
 # Tools and Technologies Used
 Programming Language: Python
