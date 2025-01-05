@@ -1,5 +1,6 @@
 # Customer_Purchase_Behaviour_Analysis
-**Project Learnings**
+
+# Project Learnings
 Performed data cleaning and manipulation
 
 Performed exploratory data analysis (EDA) using
