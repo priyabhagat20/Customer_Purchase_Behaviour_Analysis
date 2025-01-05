@@ -1,9 +1,9 @@
 # Customer_Purchase_Behaviour_Analysis
 
-# Overview
+**Overview**
 The Customer Purchase Behaviour Analysis project focuses on analyzing customer purchasing patterns to gain insights that can help improve customer experience and boost sales. By leveraging Python's powerful data analysis libraries, we uncover actionable insights to optimize inventory, target potential customers, and streamline business operations.
 
-# Key Features
+**Key Features**
 1. Data Cleaning and Manipulation
 Preprocessed raw data to ensure consistency, handle missing values, and correct anomalies.
 Transformed datasets into a structured format suitable for analysis.
@@ -19,14 +19,14 @@ Suggested tailored strategies for marketing campaigns and promotions to attract 
 Analyzed sales data to identify the most popular product categories and individual products.
 Provided insights into seasonal and regional demand patterns.
 
-# Tools and Technologies Used
+**Tools and Technologies Used**
 Programming Language: Python
 Libraries:
 Pandas: Data manipulation and analysis.
 Matplotlib and Seaborn: Data visualization and graphical representation.
 Jupyter Notebook: For interactive data exploration and visualization.
 
-# Benefits of the Analysis
+**Benefits of the Analysis**
 Enhanced customer satisfaction by aligning business strategies with customer needs.
 Increased sales efficiency by focusing on high-demand products and profitable customer segments.
 Improved inventory planning to balance supply and demand effectively.
